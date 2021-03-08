@@ -1,2 +1,2 @@
 # UnityCubeSampleWebGL
-Click [here](https://github.com/Darkne77/UnityCubeSampleWebGL/blob/main/index.html).
+Click [here](https://darkne77.github.io/UnityCubeSampleWebGL/index.html).
